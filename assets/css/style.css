@@ -367,6 +367,7 @@ section {
   margin-bottom: 20px;
   display: flex;
   align-items: center;
+  text-decoration: none;
 }
 .about .content ul strong {
   margin-right: 10px;
